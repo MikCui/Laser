@@ -1,0 +1,10 @@
++++ OOP for the objects & the lasers
++++ Implement objects (miror und lens)
++++ Implement objects list in the bottom (with possibility to remove or add an object on the grid)
+++ Extended palette for the sprites
+++ Informations about the selected item (on the upper screen + colors on the lower screen=
+++ Add other objects (Prism, Doubler...)
+++ Menu
+++ Level editor
+++ Anim objs
+...
